@@ -6,3 +6,5 @@ Changelog v1.0.0
 - Nitification of suspicious activity in your log
 
 ![print](https://i.imgur.com/d7Q69RE.png)
+
+Do not give this for no one.
